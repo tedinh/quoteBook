@@ -1,0 +1,42 @@
+body {
+  background-color: #F5FEF9;
+  font-family: serif;
+
+}
+.main {
+  border-top: thin solid #B3B3B3;
+  border-left: thin solid #B3B3B3;
+  border-right: thick solid #B3B3B3;
+}
+.bg {
+
+  border-bottom-left-radius: 14px;
+  border-bottom-right-radius: 14px;
+  border-bottom: thick solid #B3B3B3;
+}
+.quotes {
+
+  font-size: 50px;
+}
+.author {
+    color: #737373;
+}
+button {
+
+  /*padding: 0 6px 0 6px;
+  margin: 6px 8px 6px 8px;
+  min-width: 88px;
+  border-radius: 3px;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration:none;
+  border: none;
+  outline: none;*/
+}
+img {
+/*padding-top: 3px;*/
+object-fit: fill;
+  height: 15px;
+  width: 15px;
+}
